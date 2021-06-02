@@ -1,0 +1,34 @@
+{
+    "client_id": "3",
+    "content": ["2BDD2747A7FBF92F672CF18051E25020",
+                "38C0FB895F58EBB85BE505C175341884"
+            ],
+    "actions": [{"time": 1, 
+                 "code": "O",
+                 "client_id": "1"
+            },
+            {"time": 2, 
+                "code": "Q",
+                "content_id": "22DBEBE20E41F0126DFFE3782061377B"
+            },
+            {"time": 3, 
+                "code": "M",
+                "client_id": "4"
+            },
+            {"time": 4, 
+                "code": "Q",
+                "content_id": "67ECEEBA8F192AB5B5A82D4E5D5F6C55"
+            },
+            {"time": 5, 
+                "code": "Q",
+                "content_id": "169B99391095B46CB63DEB35D5D8CA84"
+            },
+            {"time": 6, 
+                "code": "L"
+            },
+            {"time": 8, 
+                "code": "M",
+                "client_id": "4"
+            }
+        ]
+}
